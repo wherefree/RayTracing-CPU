@@ -1,3 +1,3 @@
 # RayTracing-CPU
 
-### 学习Learn Ray Tracing in next week的实验性代码
+### 学习RayTracingTheNextWeek的实验性代码
